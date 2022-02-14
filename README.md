@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mmaclean13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi! I'm Marlee 👋
+
+- I’m a BI developer working primarily with Power BI. Other technologies I'm working with include Tabular Editor and Snowflake, as well as learning Python.  
+
 
 <!---
 mmaclean13/mmaclean13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
